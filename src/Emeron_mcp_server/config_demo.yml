@@ -1,0 +1,11 @@
+model:
+  name: "pre-emeron_multi_dialect_v3"
+  key: ""
+  url: "https://poc-dashscope.aliyuncs.com/compatible-mode/v1"
+
+database:
+  host: "localhost"
+  port: 3306
+  user: "root"
+  password: ""
+  database: ""
