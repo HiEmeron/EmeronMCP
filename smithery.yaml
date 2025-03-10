@@ -1,0 +1,18 @@
+# Smithery.ai configuration
+startCommand:
+  type: stdio
+  configSchema:
+    # JSON Schema defining the configuration options for the MCP.
+    {
+      "YML":"src/emeron_mcp_server/config_demo.yml"
+    }
+  commandFunction:
+    # A function that produces the CLI command to start the MCP on stdio.
+    |-
+    (config) => ({
+      "command": "python",
+      "args": [
+        "-m",
+        "emeron_mcp_server"
+      ]
+    })
