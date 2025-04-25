@@ -6,7 +6,9 @@
   <b>Language. Orchestrated. Emergent. The control layer for intelligent execution.</b><br/>
 </p>
 
-#### CA:4iy9Y2nJ6t3dAWH7GmZjtKukPNayKCUmGTZZqg5xpump
+<p align="center">
+  <b>CA:4iy9Y2nJ6t3dAWH7GmZjtKukPNayKCUmGTZZqg5xpump</b><br/>
+</p>
 
 ---
 
