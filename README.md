@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hiemeron-emeronmcp-badge.png)](https://mseep.ai/app/hiemeron-emeronmcp)
+
 <h1 align="center">Emeron 🕳 Protocol</h1>
 <p align="center">
   <img alt="Emeron MCP" src="imgs/logo.png" height="60"/>
